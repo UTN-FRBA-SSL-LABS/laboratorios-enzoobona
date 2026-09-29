@@ -1,6 +1,6 @@
 # Nombre del ejecutable final
 PROGRAMA := calc3
-BISON := parser3 # Por si cambian los nombres de los archivos
+BISON := parser3
 FLEX := scanner3
 
 # Compilador
